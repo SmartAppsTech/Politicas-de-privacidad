@@ -17,5 +17,21 @@ Contacto
 
 Si tiene alguna pregunta sobre esta política de privacidad, puede contactarnos utilizando la información a continuación.
 
+Privacy Policy for Student Test Product Using TikTok API
+
+Our student test product is for educational purposes only and is designed for students to learn how to use the TikTok API. By using our student test product, you accept the practices described in this privacy policy.
+
+Collection and Use of Information
+
+Our student test product only uses publicly available data and does not collect or use any other personal information. We do not share or disclose any personal information to third parties.
+
+Modifications to this Privacy Policy
+
+We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. We encourage you to review this page periodically to be aware of any changes.
+
+Contact
+
+If you have any questions about this privacy policy, you can contact us using the information below.
+
 Leonel Mera
 indigointeligencia2@gmail.com
